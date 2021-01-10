@@ -1,3 +1,12 @@
+# inc
+
+## ZipRISC1
+
+Explore how this code might be used to emit ZipRISC1 instructions instead of x86.
+It's Scheme (i know, I know) but pretty simple.
+
+### Orginal Readme
+
 Step-by-step development of a Scheme-to-x86 compiler, based on
 Abdulaziz Ghuloum's [paper][1], _An Incremental Approach to Compiler
 Construction_, and extended draft [tutorial][2], _Compilers: Backend to
